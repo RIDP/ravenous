@@ -1,0 +1,6 @@
+You execute these steps:
+
+    run git status to check untracked files
+    run git add ___  to add untracked files (running git add * adds all files)
+    run git commit -m '<message>' 
+    run git push origin master
